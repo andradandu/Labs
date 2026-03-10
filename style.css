@@ -68,7 +68,7 @@ h2 {
 
 /* Animation 2 - Fade In */
 .fade-in {
-    animation: fadeIn 1.2s ease-in;
+    animation: fadeIn 5s ease-in;
 }
 
 @keyframes fadeIn {
@@ -78,7 +78,7 @@ h2 {
 
 /* Animation 3 - Slide In */
 .slide-in {
-    animation: slideIn 1.2s ease-out;
+    animation: slideIn 5s ease-out;
 }
 
 @keyframes slideIn {
